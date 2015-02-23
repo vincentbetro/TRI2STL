@@ -1,0 +1,5 @@
+Saving nodes to TRI2STL.node
+Saving poly to TRI2STL.poly
+Saving nodes to TRI2STLout.node
+Saving elements to TRI2STLout.ele
+Saving faces to TRI2STLout.face

@@ -1,0 +1,22 @@
+#Exit              - 0
+#Convert file      - 1
+#Decomp CGNS file  - 2
+#Recomp CGNS files - 3
+#Choice >
+1
+#Enter input grid file name >
+TRI2STL_tet.cgns
+#Enter output grid file name >
+TRI2STL_tet.crunch
+#Check volume element winding? [0,1] >
+1
+#Check boundary element winding? [0,1] >
+1
+#Convert polyhedra to standard? [0,1] >
+1
+#Exit              - 0
+#Convert file      - 1
+#Decomp CGNS file  - 2
+#Recomp CGNS files - 3
+#Choice >
+0

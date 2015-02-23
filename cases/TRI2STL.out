@@ -1,0 +1,2100 @@
+
+TRI2STL run started at Thu Nov 11 11:37:40 2010
+
+===========================================================================
+ COPYRIGHT 2003-2010 THE UNIVERSITY OF TENNESSEE AT CHATTANOOGA            
+                                                                           
+                    RIGHTS IN DATA                                         
+                                                                           
+ THIS SOFTWARE IS SUBMITTED WITH RESTRICTED RIGHTS UNDER GOVERNMENT        
+    CONTRACTS. USE, REPRODUCTION, OR DISCLOSURE IS SUBJECT TO              
+         RESTRICTIONS SET FORTH IN THESE CONTRACTS AND FEDERAL             
+              RIGHTS IN DATA CONTRACT CLAUSES.                             
+       ALL RIGHTS NOT RESERVED FOR THE GOVERNMENT ARE RETAINED BY          
+              THE UNIVERSITY OF TENNESSEE AT CHATTANOOGA                   
+                                                                           
+ TRI2STL conversion code with TetGen built in                              
+ NOTE: This data includes UT SimCenter at Chattanooga codes                
+ that were developed under private non-government funding.                 
+ This software is submitted with limited rights to use, reproduce,         
+ and disclose this data for Government Purposes only.                      
+ Requests for access to the software for non-governmental purposes         
+ should be referrred to                                                    
+                                                                           
+    Dr. Steve Karman                  Dr. Vincent Betro                    
+    Steve-Karman@utc.edu              Vincent-Betro@utc.edu                
+    423-425-5492  or  423-425-5470    423-425-5434                         
+                                                                           
+    University of Tennessee SimCenter at Chattanooga                       
+    701 East M. L. King Boulevard                                          
+    Chattanooga, TN 37403                                                  
+===========================================================================
+
+#Number of geometry files ->1
+#File 1 ->capri.001.a.tri
+#Enter number of regions to be saved from Tetgen ->1
+#Enter number of region to be stitched ->1
+Number of geometry files = 1
+Geometry file 1 = capri.001.a.tri
+ Number of points = 2678
+ Number of triangles = 5288
+Maximum material ID = 1108
+Material 1001 has 257 facets.
+Material 1002 has 257 facets.
+Material 1003 has 40 facets.
+Material 1004 has 800 facets.
+Material 1005 has 40 facets.
+Material 1006 has 872 facets.
+Material 1007 has 40 facets.
+Material 1008 has 40 facets.
+Material 1009 has 257 facets.
+Material 1010 has 30 facets.
+Material 1011 has 257 facets.
+Material 1012 has 30 facets.
+Material 1013 has 2 facets.
+Material 1014 has 36 facets.
+Material 1015 has 2 facets.
+Material 1016 has 36 facets.
+Material 1017 has 36 facets.
+Material 1018 has 36 facets.
+Material 1019 has 2 facets.
+Material 1020 has 36 facets.
+Material 1021 has 2 facets.
+Material 1022 has 36 facets.
+Material 1023 has 36 facets.
+Material 1024 has 36 facets.
+Material 1025 has 2 facets.
+Material 1026 has 36 facets.
+Material 1027 has 2 facets.
+Material 1028 has 36 facets.
+Material 1029 has 36 facets.
+Material 1030 has 36 facets.
+Material 1031 has 2 facets.
+Material 1032 has 36 facets.
+Material 1033 has 2 facets.
+Material 1034 has 36 facets.
+Material 1035 has 36 facets.
+Material 1036 has 36 facets.
+Material 1037 has 2 facets.
+Material 1038 has 36 facets.
+Material 1039 has 2 facets.
+Material 1040 has 36 facets.
+Material 1041 has 36 facets.
+Material 1042 has 36 facets.
+Material 1043 has 2 facets.
+Material 1044 has 36 facets.
+Material 1045 has 2 facets.
+Material 1046 has 36 facets.
+Material 1047 has 36 facets.
+Material 1048 has 36 facets.
+Material 1049 has 2 facets.
+Material 1050 has 36 facets.
+Material 1051 has 2 facets.
+Material 1052 has 36 facets.
+Material 1053 has 36 facets.
+Material 1054 has 36 facets.
+Material 1055 has 2 facets.
+Material 1056 has 36 facets.
+Material 1057 has 2 facets.
+Material 1058 has 36 facets.
+Material 1059 has 36 facets.
+Material 1060 has 36 facets.
+Material 1061 has 2 facets.
+Material 1062 has 36 facets.
+Material 1063 has 2 facets.
+Material 1064 has 36 facets.
+Material 1065 has 36 facets.
+Material 1066 has 36 facets.
+Material 1067 has 2 facets.
+Material 1068 has 36 facets.
+Material 1069 has 2 facets.
+Material 1070 has 36 facets.
+Material 1071 has 36 facets.
+Material 1072 has 36 facets.
+Material 1073 has 2 facets.
+Material 1074 has 36 facets.
+Material 1075 has 2 facets.
+Material 1076 has 36 facets.
+Material 1077 has 36 facets.
+Material 1078 has 36 facets.
+Material 1079 has 2 facets.
+Material 1080 has 36 facets.
+Material 1081 has 2 facets.
+Material 1082 has 36 facets.
+Material 1083 has 36 facets.
+Material 1084 has 36 facets.
+Material 1085 has 2 facets.
+Material 1086 has 36 facets.
+Material 1087 has 2 facets.
+Material 1088 has 36 facets.
+Material 1089 has 36 facets.
+Material 1090 has 36 facets.
+Material 1091 has 2 facets.
+Material 1092 has 36 facets.
+Material 1093 has 2 facets.
+Material 1094 has 36 facets.
+Material 1095 has 36 facets.
+Material 1096 has 36 facets.
+Material 1097 has 2 facets.
+Material 1098 has 36 facets.
+Material 1099 has 2 facets.
+Material 1100 has 36 facets.
+Material 1101 has 36 facets.
+Material 1102 has 36 facets.
+Material 1103 has 2 facets.
+Material 1104 has 36 facets.
+Material 1105 has 2 facets.
+Material 1106 has 36 facets.
+Material 1107 has 36 facets.
+Material 1108 has 36 facets.
+Body 0 has 0 facets.
+Body 1 has 257 facets.
+Body 2 has 257 facets.
+Body 3 has 40 facets.
+Body 4 has 800 facets.
+Body 5 has 40 facets.
+Body 6 has 872 facets.
+Body 7 has 40 facets.
+Body 8 has 40 facets.
+Body 9 has 257 facets.
+Body 10 has 30 facets.
+Body 11 has 257 facets.
+Body 12 has 30 facets.
+Body 13 has 2 facets.
+Body 14 has 36 facets.
+Body 15 has 2 facets.
+Body 16 has 36 facets.
+Body 17 has 36 facets.
+Body 18 has 36 facets.
+Body 19 has 2 facets.
+Body 20 has 36 facets.
+Body 21 has 2 facets.
+Body 22 has 36 facets.
+Body 23 has 36 facets.
+Body 24 has 36 facets.
+Body 25 has 2 facets.
+Body 26 has 36 facets.
+Body 27 has 2 facets.
+Body 28 has 36 facets.
+Body 29 has 36 facets.
+Body 30 has 36 facets.
+Body 31 has 2 facets.
+Body 32 has 36 facets.
+Body 33 has 2 facets.
+Body 34 has 36 facets.
+Body 35 has 36 facets.
+Body 36 has 36 facets.
+Body 37 has 2 facets.
+Body 38 has 36 facets.
+Body 39 has 2 facets.
+Body 40 has 36 facets.
+Body 41 has 36 facets.
+Body 42 has 36 facets.
+Body 43 has 2 facets.
+Body 44 has 36 facets.
+Body 45 has 2 facets.
+Body 46 has 36 facets.
+Body 47 has 36 facets.
+Body 48 has 36 facets.
+Body 49 has 2 facets.
+Body 50 has 36 facets.
+Body 51 has 2 facets.
+Body 52 has 36 facets.
+Body 53 has 36 facets.
+Body 54 has 36 facets.
+Body 55 has 2 facets.
+Body 56 has 36 facets.
+Body 57 has 2 facets.
+Body 58 has 36 facets.
+Body 59 has 36 facets.
+Body 60 has 36 facets.
+Body 61 has 2 facets.
+Body 62 has 36 facets.
+Body 63 has 2 facets.
+Body 64 has 36 facets.
+Body 65 has 36 facets.
+Body 66 has 36 facets.
+Body 67 has 2 facets.
+Body 68 has 36 facets.
+Body 69 has 2 facets.
+Body 70 has 36 facets.
+Body 71 has 36 facets.
+Body 72 has 36 facets.
+Body 73 has 2 facets.
+Body 74 has 36 facets.
+Body 75 has 2 facets.
+Body 76 has 36 facets.
+Body 77 has 36 facets.
+Body 78 has 36 facets.
+Body 79 has 2 facets.
+Body 80 has 36 facets.
+Body 81 has 2 facets.
+Body 82 has 36 facets.
+Body 83 has 36 facets.
+Body 84 has 36 facets.
+Body 85 has 2 facets.
+Body 86 has 36 facets.
+Body 87 has 2 facets.
+Body 88 has 36 facets.
+Body 89 has 36 facets.
+Body 90 has 36 facets.
+Body 91 has 2 facets.
+Body 92 has 36 facets.
+Body 93 has 2 facets.
+Body 94 has 36 facets.
+Body 95 has 36 facets.
+Body 96 has 36 facets.
+Body 97 has 2 facets.
+Body 98 has 36 facets.
+Body 99 has 2 facets.
+Body 100 has 36 facets.
+Body 101 has 36 facets.
+Body 102 has 36 facets.
+Body 103 has 2 facets.
+Body 104 has 36 facets.
+Body 105 has 2 facets.
+Body 106 has 36 facets.
+Body 107 has 36 facets.
+Body 108 has 36 facets.
+Total number of facets = 5288.
+Number of chains = 110
+Chain 1 has body # = 1
+Chain 1 has 4 knots.
+Chain 2 has body # = 2
+Chain 2 has 4 knots.
+Chain 3 has body # = 3
+Chain 3 has 4 knots.
+Chain 4 has body # = 4
+Chain 4 has 4 knots.
+Chain 5 has body # = 5
+Chain 5 has 4 knots.
+Chain 6 has body # = 6
+Chain 6 has 4 knots.
+Chain 7 has body # = 6
+Chain 8 has body # = 6
+Chain 9 has body # = 7
+Chain 9 has 4 knots.
+Chain 10 has body # = 8
+Chain 10 has 4 knots.
+Chain 11 has body # = 9
+Chain 11 has 4 knots.
+Chain 12 has body # = 10
+Chain 13 has body # = 11
+Chain 13 has 4 knots.
+Chain 14 has body # = 12
+Chain 15 has body # = 13
+Chain 15 has 4 knots.
+Chain 16 has body # = 14
+Chain 16 has 4 knots.
+Chain 17 has body # = 15
+Chain 17 has 4 knots.
+Chain 18 has body # = 16
+Chain 18 has 4 knots.
+Chain 19 has body # = 17
+Chain 19 has 4 knots.
+Chain 20 has body # = 18
+Chain 20 has 4 knots.
+Chain 21 has body # = 19
+Chain 21 has 4 knots.
+Chain 22 has body # = 20
+Chain 22 has 4 knots.
+Chain 23 has body # = 21
+Chain 23 has 4 knots.
+Chain 24 has body # = 22
+Chain 24 has 4 knots.
+Chain 25 has body # = 23
+Chain 25 has 4 knots.
+Chain 26 has body # = 24
+Chain 26 has 4 knots.
+Chain 27 has body # = 25
+Chain 27 has 4 knots.
+Chain 28 has body # = 26
+Chain 28 has 4 knots.
+Chain 29 has body # = 27
+Chain 29 has 4 knots.
+Chain 30 has body # = 28
+Chain 30 has 4 knots.
+Chain 31 has body # = 29
+Chain 31 has 4 knots.
+Chain 32 has body # = 30
+Chain 32 has 4 knots.
+Chain 33 has body # = 31
+Chain 33 has 4 knots.
+Chain 34 has body # = 32
+Chain 34 has 4 knots.
+Chain 35 has body # = 33
+Chain 35 has 4 knots.
+Chain 36 has body # = 34
+Chain 36 has 4 knots.
+Chain 37 has body # = 35
+Chain 37 has 4 knots.
+Chain 38 has body # = 36
+Chain 38 has 4 knots.
+Chain 39 has body # = 37
+Chain 39 has 4 knots.
+Chain 40 has body # = 38
+Chain 40 has 4 knots.
+Chain 41 has body # = 39
+Chain 41 has 4 knots.
+Chain 42 has body # = 40
+Chain 42 has 4 knots.
+Chain 43 has body # = 41
+Chain 43 has 4 knots.
+Chain 44 has body # = 42
+Chain 44 has 4 knots.
+Chain 45 has body # = 43
+Chain 45 has 4 knots.
+Chain 46 has body # = 44
+Chain 46 has 4 knots.
+Chain 47 has body # = 45
+Chain 47 has 4 knots.
+Chain 48 has body # = 46
+Chain 48 has 4 knots.
+Chain 49 has body # = 47
+Chain 49 has 4 knots.
+Chain 50 has body # = 48
+Chain 50 has 4 knots.
+Chain 51 has body # = 49
+Chain 51 has 4 knots.
+Chain 52 has body # = 50
+Chain 52 has 4 knots.
+Chain 53 has body # = 51
+Chain 53 has 4 knots.
+Chain 54 has body # = 52
+Chain 54 has 4 knots.
+Chain 55 has body # = 53
+Chain 55 has 4 knots.
+Chain 56 has body # = 54
+Chain 56 has 4 knots.
+Chain 57 has body # = 55
+Chain 57 has 4 knots.
+Chain 58 has body # = 56
+Chain 58 has 4 knots.
+Chain 59 has body # = 57
+Chain 59 has 4 knots.
+Chain 60 has body # = 58
+Chain 60 has 4 knots.
+Chain 61 has body # = 59
+Chain 61 has 4 knots.
+Chain 62 has body # = 60
+Chain 62 has 4 knots.
+Chain 63 has body # = 61
+Chain 63 has 4 knots.
+Chain 64 has body # = 62
+Chain 64 has 4 knots.
+Chain 65 has body # = 63
+Chain 65 has 4 knots.
+Chain 66 has body # = 64
+Chain 66 has 4 knots.
+Chain 67 has body # = 65
+Chain 67 has 4 knots.
+Chain 68 has body # = 66
+Chain 68 has 4 knots.
+Chain 69 has body # = 67
+Chain 69 has 4 knots.
+Chain 70 has body # = 68
+Chain 70 has 4 knots.
+Chain 71 has body # = 69
+Chain 71 has 4 knots.
+Chain 72 has body # = 70
+Chain 72 has 4 knots.
+Chain 73 has body # = 71
+Chain 73 has 4 knots.
+Chain 74 has body # = 72
+Chain 74 has 4 knots.
+Chain 75 has body # = 73
+Chain 75 has 4 knots.
+Chain 76 has body # = 74
+Chain 76 has 4 knots.
+Chain 77 has body # = 75
+Chain 77 has 4 knots.
+Chain 78 has body # = 76
+Chain 78 has 4 knots.
+Chain 79 has body # = 77
+Chain 79 has 4 knots.
+Chain 80 has body # = 78
+Chain 80 has 4 knots.
+Chain 81 has body # = 79
+Chain 81 has 4 knots.
+Chain 82 has body # = 80
+Chain 82 has 4 knots.
+Chain 83 has body # = 81
+Chain 83 has 4 knots.
+Chain 84 has body # = 82
+Chain 84 has 4 knots.
+Chain 85 has body # = 83
+Chain 85 has 4 knots.
+Chain 86 has body # = 84
+Chain 86 has 4 knots.
+Chain 87 has body # = 85
+Chain 87 has 4 knots.
+Chain 88 has body # = 86
+Chain 88 has 4 knots.
+Chain 89 has body # = 87
+Chain 89 has 4 knots.
+Chain 90 has body # = 88
+Chain 90 has 4 knots.
+Chain 91 has body # = 89
+Chain 91 has 4 knots.
+Chain 92 has body # = 90
+Chain 92 has 4 knots.
+Chain 93 has body # = 91
+Chain 93 has 4 knots.
+Chain 94 has body # = 92
+Chain 94 has 4 knots.
+Chain 95 has body # = 93
+Chain 95 has 4 knots.
+Chain 96 has body # = 94
+Chain 96 has 4 knots.
+Chain 97 has body # = 95
+Chain 97 has 4 knots.
+Chain 98 has body # = 96
+Chain 98 has 4 knots.
+Chain 99 has body # = 97
+Chain 99 has 4 knots.
+Chain 100 has body # = 98
+Chain 100 has 4 knots.
+Chain 101 has body # = 99
+Chain 101 has 4 knots.
+Chain 102 has body # = 100
+Chain 102 has 4 knots.
+Chain 103 has body # = 101
+Chain 103 has 4 knots.
+Chain 104 has body # = 102
+Chain 104 has 4 knots.
+Chain 105 has body # = 103
+Chain 105 has 4 knots.
+Chain 106 has body # = 104
+Chain 106 has 4 knots.
+Chain 107 has body # = 105
+Chain 107 has 4 knots.
+Chain 108 has body # = 106
+Chain 108 has 4 knots.
+Chain 109 has body # = 107
+Chain 109 has 4 knots.
+Chain 110 has body # = 108
+Chain 110 has 4 knots.
+
+Critical point 1 is located at (-0.025437, -0, 0.001009)
+  Boundary 1 is 1
+  Boundary 2 is 6
+  Boundary 3 is 11
+
+Critical point 2 is located at (-0.023937, -0.02, 0.001009)
+  Boundary 1 is 1
+  Boundary 2 is 11
+  Boundary 3 is 12
+
+Critical point 3 is located at (-0.023937, -0, 0.001009)
+  Boundary 1 is 1
+  Boundary 2 is 6
+  Boundary 3 is 11
+
+Critical point 4 is located at (-0.025437, -0.02, 0.001009)
+  Boundary 1 is 1
+  Boundary 2 is 11
+  Boundary 3 is 12
+
+Critical point 5 is located at (-0.025459, -0, 0.048839)
+  Boundary 1 is 2
+  Boundary 2 is 6
+  Boundary 3 is 9
+
+Critical point 6 is located at (-0.023959, -0.02, 0.048839)
+  Boundary 1 is 2
+  Boundary 2 is 9
+  Boundary 3 is 10
+
+Critical point 7 is located at (-0.023959, -0, 0.048839)
+  Boundary 1 is 2
+  Boundary 2 is 6
+  Boundary 3 is 9
+
+Critical point 8 is located at (-0.025459, -0.02, 0.048839)
+  Boundary 1 is 2
+  Boundary 2 is 9
+  Boundary 3 is 10
+
+Critical point 9 is located at (0, 0.002, 0)
+  Boundary 1 is 3
+  Boundary 2 is 4
+  Boundary 3 is 8
+
+Critical point 10 is located at (0, 0.002, 0.05)
+  Boundary 1 is 3
+  Boundary 2 is 4
+  Boundary 3 is 7
+
+Critical point 11 is located at (0, 0, 0.05)
+  Boundary 1 is 3
+  Boundary 2 is 6
+  Boundary 3 is 7
+
+Critical point 12 is located at (0, 0, 0)
+  Boundary 1 is 3
+  Boundary 2 is 6
+  Boundary 3 is 8
+
+Critical point 13 is located at (-0.05, 0.002, 0.05)
+  Boundary 1 is 4
+  Boundary 2 is 5
+  Boundary 3 is 7
+
+Critical point 14 is located at (-0.05, 0.002, 0)
+  Boundary 1 is 4
+  Boundary 2 is 5
+  Boundary 3 is 8
+
+Critical point 15 is located at (-0.05, -0, 0)
+  Boundary 1 is 5
+  Boundary 2 is 6
+  Boundary 3 is 8
+
+Critical point 16 is located at (-0.05, -0, 0.05)
+  Boundary 1 is 5
+  Boundary 2 is 6
+  Boundary 3 is 7
+
+Critical point 17 is located at (-0.04683, 0.000244, 0.048211)
+  Boundary 1 is 13
+  Boundary 2 is 14
+  Boundary 3 is 17
+
+Critical point 18 is located at (-0.04783, 0.000244, 0.048211)
+  Boundary 1 is 13
+  Boundary 2 is 14
+  Boundary 3 is 18
+
+Critical point 19 is located at (-0.04783, 0.001744, 0.048211)
+  Boundary 1 is 13
+  Boundary 2 is 16
+  Boundary 3 is 18
+
+Critical point 20 is located at (-0.04683, 0.001744, 0.048211)
+  Boundary 1 is 13
+  Boundary 2 is 16
+  Boundary 3 is 17
+
+Critical point 21 is located at (-0.04783, 0.000244, 0.002211)
+  Boundary 1 is 14
+  Boundary 2 is 15
+  Boundary 3 is 18
+
+Critical point 22 is located at (-0.04683, 0.000244, 0.002211)
+  Boundary 1 is 14
+  Boundary 2 is 15
+  Boundary 3 is 17
+
+Critical point 23 is located at (-0.04683, 0.001744, 0.002211)
+  Boundary 1 is 15
+  Boundary 2 is 16
+  Boundary 3 is 17
+
+Critical point 24 is located at (-0.04783, 0.001744, 0.002211)
+  Boundary 1 is 15
+  Boundary 2 is 16
+  Boundary 3 is 18
+
+Critical point 25 is located at (-0.04383, 0.000244, 0.048211)
+  Boundary 1 is 19
+  Boundary 2 is 20
+  Boundary 3 is 23
+
+Critical point 26 is located at (-0.04483, 0.000244, 0.048211)
+  Boundary 1 is 19
+  Boundary 2 is 20
+  Boundary 3 is 24
+
+Critical point 27 is located at (-0.04483, 0.001744, 0.048211)
+  Boundary 1 is 19
+  Boundary 2 is 22
+  Boundary 3 is 24
+
+Critical point 28 is located at (-0.04383, 0.001744, 0.048211)
+  Boundary 1 is 19
+  Boundary 2 is 22
+  Boundary 3 is 23
+
+Critical point 29 is located at (-0.04483, 0.000244, 0.002211)
+  Boundary 1 is 20
+  Boundary 2 is 21
+  Boundary 3 is 24
+
+Critical point 30 is located at (-0.04383, 0.000244, 0.002211)
+  Boundary 1 is 20
+  Boundary 2 is 21
+  Boundary 3 is 23
+
+Critical point 31 is located at (-0.04383, 0.001744, 0.002211)
+  Boundary 1 is 21
+  Boundary 2 is 22
+  Boundary 3 is 23
+
+Critical point 32 is located at (-0.04483, 0.001744, 0.002211)
+  Boundary 1 is 21
+  Boundary 2 is 22
+  Boundary 3 is 24
+
+Critical point 33 is located at (-0.04083, 0.000244, 0.048211)
+  Boundary 1 is 25
+  Boundary 2 is 26
+  Boundary 3 is 29
+
+Critical point 34 is located at (-0.04183, 0.000244, 0.048211)
+  Boundary 1 is 25
+  Boundary 2 is 26
+  Boundary 3 is 30
+
+Critical point 35 is located at (-0.04183, 0.001744, 0.048211)
+  Boundary 1 is 25
+  Boundary 2 is 28
+  Boundary 3 is 30
+
+Critical point 36 is located at (-0.04083, 0.001744, 0.048211)
+  Boundary 1 is 25
+  Boundary 2 is 28
+  Boundary 3 is 29
+
+Critical point 37 is located at (-0.04183, 0.000244, 0.002211)
+  Boundary 1 is 26
+  Boundary 2 is 27
+  Boundary 3 is 30
+
+Critical point 38 is located at (-0.04083, 0.000244, 0.002211)
+  Boundary 1 is 26
+  Boundary 2 is 27
+  Boundary 3 is 29
+
+Critical point 39 is located at (-0.04083, 0.001744, 0.002211)
+  Boundary 1 is 27
+  Boundary 2 is 28
+  Boundary 3 is 29
+
+Critical point 40 is located at (-0.04183, 0.001744, 0.002211)
+  Boundary 1 is 27
+  Boundary 2 is 28
+  Boundary 3 is 30
+
+Critical point 41 is located at (-0.03783, 0.000244, 0.048211)
+  Boundary 1 is 31
+  Boundary 2 is 32
+  Boundary 3 is 35
+
+Critical point 42 is located at (-0.03883, 0.000244, 0.048211)
+  Boundary 1 is 31
+  Boundary 2 is 32
+  Boundary 3 is 36
+
+Critical point 43 is located at (-0.03883, 0.001744, 0.048211)
+  Boundary 1 is 31
+  Boundary 2 is 34
+  Boundary 3 is 36
+
+Critical point 44 is located at (-0.03783, 0.001744, 0.048211)
+  Boundary 1 is 31
+  Boundary 2 is 34
+  Boundary 3 is 35
+
+Critical point 45 is located at (-0.03883, 0.000244, 0.002211)
+  Boundary 1 is 32
+  Boundary 2 is 33
+  Boundary 3 is 36
+
+Critical point 46 is located at (-0.03783, 0.000244, 0.002211)
+  Boundary 1 is 32
+  Boundary 2 is 33
+  Boundary 3 is 35
+
+Critical point 47 is located at (-0.03783, 0.001744, 0.002211)
+  Boundary 1 is 33
+  Boundary 2 is 34
+  Boundary 3 is 35
+
+Critical point 48 is located at (-0.03883, 0.001744, 0.002211)
+  Boundary 1 is 33
+  Boundary 2 is 34
+  Boundary 3 is 36
+
+Critical point 49 is located at (-0.03483, 0.000244, 0.048211)
+  Boundary 1 is 37
+  Boundary 2 is 38
+  Boundary 3 is 41
+
+Critical point 50 is located at (-0.03583, 0.000244, 0.048211)
+  Boundary 1 is 37
+  Boundary 2 is 38
+  Boundary 3 is 42
+
+Critical point 51 is located at (-0.03583, 0.001744, 0.048211)
+  Boundary 1 is 37
+  Boundary 2 is 40
+  Boundary 3 is 42
+
+Critical point 52 is located at (-0.03483, 0.001744, 0.048211)
+  Boundary 1 is 37
+  Boundary 2 is 40
+  Boundary 3 is 41
+
+Critical point 53 is located at (-0.03583, 0.000244, 0.002211)
+  Boundary 1 is 38
+  Boundary 2 is 39
+  Boundary 3 is 42
+
+Critical point 54 is located at (-0.03483, 0.000244, 0.002211)
+  Boundary 1 is 38
+  Boundary 2 is 39
+  Boundary 3 is 41
+
+Critical point 55 is located at (-0.03483, 0.001744, 0.002211)
+  Boundary 1 is 39
+  Boundary 2 is 40
+  Boundary 3 is 41
+
+Critical point 56 is located at (-0.03583, 0.001744, 0.002211)
+  Boundary 1 is 39
+  Boundary 2 is 40
+  Boundary 3 is 42
+
+Critical point 57 is located at (-0.03183, 0.000244, 0.048211)
+  Boundary 1 is 43
+  Boundary 2 is 44
+  Boundary 3 is 47
+
+Critical point 58 is located at (-0.03283, 0.000244, 0.048211)
+  Boundary 1 is 43
+  Boundary 2 is 44
+  Boundary 3 is 48
+
+Critical point 59 is located at (-0.03283, 0.001744, 0.048211)
+  Boundary 1 is 43
+  Boundary 2 is 46
+  Boundary 3 is 48
+
+Critical point 60 is located at (-0.03183, 0.001744, 0.048211)
+  Boundary 1 is 43
+  Boundary 2 is 46
+  Boundary 3 is 47
+
+Critical point 61 is located at (-0.03283, 0.000244, 0.002211)
+  Boundary 1 is 44
+  Boundary 2 is 45
+  Boundary 3 is 48
+
+Critical point 62 is located at (-0.03183, 0.000244, 0.002211)
+  Boundary 1 is 44
+  Boundary 2 is 45
+  Boundary 3 is 47
+
+Critical point 63 is located at (-0.03183, 0.001744, 0.002211)
+  Boundary 1 is 45
+  Boundary 2 is 46
+  Boundary 3 is 47
+
+Critical point 64 is located at (-0.03283, 0.001744, 0.002211)
+  Boundary 1 is 45
+  Boundary 2 is 46
+  Boundary 3 is 48
+
+Critical point 65 is located at (-0.02883, 0.000244, 0.048211)
+  Boundary 1 is 49
+  Boundary 2 is 50
+  Boundary 3 is 53
+
+Critical point 66 is located at (-0.02983, 0.000244, 0.048211)
+  Boundary 1 is 49
+  Boundary 2 is 50
+  Boundary 3 is 54
+
+Critical point 67 is located at (-0.02983, 0.001744, 0.048211)
+  Boundary 1 is 49
+  Boundary 2 is 52
+  Boundary 3 is 54
+
+Critical point 68 is located at (-0.02883, 0.001744, 0.048211)
+  Boundary 1 is 49
+  Boundary 2 is 52
+  Boundary 3 is 53
+
+Critical point 69 is located at (-0.02983, 0.000244, 0.002211)
+  Boundary 1 is 50
+  Boundary 2 is 51
+  Boundary 3 is 54
+
+Critical point 70 is located at (-0.02883, 0.000244, 0.002211)
+  Boundary 1 is 50
+  Boundary 2 is 51
+  Boundary 3 is 53
+
+Critical point 71 is located at (-0.02883, 0.001744, 0.002211)
+  Boundary 1 is 51
+  Boundary 2 is 52
+  Boundary 3 is 53
+
+Critical point 72 is located at (-0.02983, 0.001744, 0.002211)
+  Boundary 1 is 51
+  Boundary 2 is 52
+  Boundary 3 is 54
+
+Critical point 73 is located at (-0.02583, 0.000244, 0.048211)
+  Boundary 1 is 55
+  Boundary 2 is 56
+  Boundary 3 is 59
+
+Critical point 74 is located at (-0.02683, 0.000244, 0.048211)
+  Boundary 1 is 55
+  Boundary 2 is 56
+  Boundary 3 is 60
+
+Critical point 75 is located at (-0.02683, 0.001744, 0.048211)
+  Boundary 1 is 55
+  Boundary 2 is 58
+  Boundary 3 is 60
+
+Critical point 76 is located at (-0.02583, 0.001744, 0.048211)
+  Boundary 1 is 55
+  Boundary 2 is 58
+  Boundary 3 is 59
+
+Critical point 77 is located at (-0.02683, 0.000244, 0.002211)
+  Boundary 1 is 56
+  Boundary 2 is 57
+  Boundary 3 is 60
+
+Critical point 78 is located at (-0.02583, 0.000244, 0.002211)
+  Boundary 1 is 56
+  Boundary 2 is 57
+  Boundary 3 is 59
+
+Critical point 79 is located at (-0.02583, 0.001744, 0.002211)
+  Boundary 1 is 57
+  Boundary 2 is 58
+  Boundary 3 is 59
+
+Critical point 80 is located at (-0.02683, 0.001744, 0.002211)
+  Boundary 1 is 57
+  Boundary 2 is 58
+  Boundary 3 is 60
+
+Critical point 81 is located at (-0.02283, 0.000244, 0.048211)
+  Boundary 1 is 61
+  Boundary 2 is 62
+  Boundary 3 is 65
+
+Critical point 82 is located at (-0.02383, 0.000244, 0.048211)
+  Boundary 1 is 61
+  Boundary 2 is 62
+  Boundary 3 is 66
+
+Critical point 83 is located at (-0.02383, 0.001744, 0.048211)
+  Boundary 1 is 61
+  Boundary 2 is 64
+  Boundary 3 is 66
+
+Critical point 84 is located at (-0.02283, 0.001744, 0.048211)
+  Boundary 1 is 61
+  Boundary 2 is 64
+  Boundary 3 is 65
+
+Critical point 85 is located at (-0.02383, 0.000244, 0.002211)
+  Boundary 1 is 62
+  Boundary 2 is 63
+  Boundary 3 is 66
+
+Critical point 86 is located at (-0.02283, 0.000244, 0.002211)
+  Boundary 1 is 62
+  Boundary 2 is 63
+  Boundary 3 is 65
+
+Critical point 87 is located at (-0.02283, 0.001744, 0.002211)
+  Boundary 1 is 63
+  Boundary 2 is 64
+  Boundary 3 is 65
+
+Critical point 88 is located at (-0.02383, 0.001744, 0.002211)
+  Boundary 1 is 63
+  Boundary 2 is 64
+  Boundary 3 is 66
+
+Critical point 89 is located at (-0.01983, 0.000244, 0.048211)
+  Boundary 1 is 67
+  Boundary 2 is 68
+  Boundary 3 is 71
+
+Critical point 90 is located at (-0.02083, 0.000244, 0.048211)
+  Boundary 1 is 67
+  Boundary 2 is 68
+  Boundary 3 is 72
+
+Critical point 91 is located at (-0.02083, 0.001744, 0.048211)
+  Boundary 1 is 67
+  Boundary 2 is 70
+  Boundary 3 is 72
+
+Critical point 92 is located at (-0.01983, 0.001744, 0.048211)
+  Boundary 1 is 67
+  Boundary 2 is 70
+  Boundary 3 is 71
+
+Critical point 93 is located at (-0.02083, 0.000244, 0.002211)
+  Boundary 1 is 68
+  Boundary 2 is 69
+  Boundary 3 is 72
+
+Critical point 94 is located at (-0.01983, 0.000244, 0.002211)
+  Boundary 1 is 68
+  Boundary 2 is 69
+  Boundary 3 is 71
+
+Critical point 95 is located at (-0.01983, 0.001744, 0.002211)
+  Boundary 1 is 69
+  Boundary 2 is 70
+  Boundary 3 is 71
+
+Critical point 96 is located at (-0.02083, 0.001744, 0.002211)
+  Boundary 1 is 69
+  Boundary 2 is 70
+  Boundary 3 is 72
+
+Critical point 97 is located at (-0.01683, 0.000244, 0.048211)
+  Boundary 1 is 73
+  Boundary 2 is 74
+  Boundary 3 is 77
+
+Critical point 98 is located at (-0.01783, 0.000244, 0.048211)
+  Boundary 1 is 73
+  Boundary 2 is 74
+  Boundary 3 is 78
+
+Critical point 99 is located at (-0.01783, 0.001744, 0.048211)
+  Boundary 1 is 73
+  Boundary 2 is 76
+  Boundary 3 is 78
+
+Critical point 100 is located at (-0.01683, 0.001744, 0.048211)
+  Boundary 1 is 73
+  Boundary 2 is 76
+  Boundary 3 is 77
+
+Critical point 101 is located at (-0.01783, 0.000244, 0.002211)
+  Boundary 1 is 74
+  Boundary 2 is 75
+  Boundary 3 is 78
+
+Critical point 102 is located at (-0.01683, 0.000244, 0.002211)
+  Boundary 1 is 74
+  Boundary 2 is 75
+  Boundary 3 is 77
+
+Critical point 103 is located at (-0.01683, 0.001744, 0.002211)
+  Boundary 1 is 75
+  Boundary 2 is 76
+  Boundary 3 is 77
+
+Critical point 104 is located at (-0.01783, 0.001744, 0.002211)
+  Boundary 1 is 75
+  Boundary 2 is 76
+  Boundary 3 is 78
+
+Critical point 105 is located at (-0.01383, 0.000244, 0.048211)
+  Boundary 1 is 79
+  Boundary 2 is 80
+  Boundary 3 is 83
+
+Critical point 106 is located at (-0.01483, 0.000244, 0.048211)
+  Boundary 1 is 79
+  Boundary 2 is 80
+  Boundary 3 is 84
+
+Critical point 107 is located at (-0.01483, 0.001744, 0.048211)
+  Boundary 1 is 79
+  Boundary 2 is 82
+  Boundary 3 is 84
+
+Critical point 108 is located at (-0.01383, 0.001744, 0.048211)
+  Boundary 1 is 79
+  Boundary 2 is 82
+  Boundary 3 is 83
+
+Critical point 109 is located at (-0.01483, 0.000244, 0.002211)
+  Boundary 1 is 80
+  Boundary 2 is 81
+  Boundary 3 is 84
+
+Critical point 110 is located at (-0.01383, 0.000244, 0.002211)
+  Boundary 1 is 80
+  Boundary 2 is 81
+  Boundary 3 is 83
+
+Critical point 111 is located at (-0.01383, 0.001744, 0.002211)
+  Boundary 1 is 81
+  Boundary 2 is 82
+  Boundary 3 is 83
+
+Critical point 112 is located at (-0.01483, 0.001744, 0.002211)
+  Boundary 1 is 81
+  Boundary 2 is 82
+  Boundary 3 is 84
+
+Critical point 113 is located at (-0.01083, 0.000244, 0.048211)
+  Boundary 1 is 85
+  Boundary 2 is 86
+  Boundary 3 is 89
+
+Critical point 114 is located at (-0.01183, 0.000244, 0.048211)
+  Boundary 1 is 85
+  Boundary 2 is 86
+  Boundary 3 is 90
+
+Critical point 115 is located at (-0.01183, 0.001744, 0.048211)
+  Boundary 1 is 85
+  Boundary 2 is 88
+  Boundary 3 is 90
+
+Critical point 116 is located at (-0.01083, 0.001744, 0.048211)
+  Boundary 1 is 85
+  Boundary 2 is 88
+  Boundary 3 is 89
+
+Critical point 117 is located at (-0.01183, 0.000244, 0.002211)
+  Boundary 1 is 86
+  Boundary 2 is 87
+  Boundary 3 is 90
+
+Critical point 118 is located at (-0.01083, 0.000244, 0.002211)
+  Boundary 1 is 86
+  Boundary 2 is 87
+  Boundary 3 is 89
+
+Critical point 119 is located at (-0.01083, 0.001744, 0.002211)
+  Boundary 1 is 87
+  Boundary 2 is 88
+  Boundary 3 is 89
+
+Critical point 120 is located at (-0.01183, 0.001744, 0.002211)
+  Boundary 1 is 87
+  Boundary 2 is 88
+  Boundary 3 is 90
+
+Critical point 121 is located at (-0.00783, 0.000244, 0.048211)
+  Boundary 1 is 91
+  Boundary 2 is 92
+  Boundary 3 is 95
+
+Critical point 122 is located at (-0.00883, 0.000244, 0.048211)
+  Boundary 1 is 91
+  Boundary 2 is 92
+  Boundary 3 is 96
+
+Critical point 123 is located at (-0.00883, 0.001744, 0.048211)
+  Boundary 1 is 91
+  Boundary 2 is 94
+  Boundary 3 is 96
+
+Critical point 124 is located at (-0.00783, 0.001744, 0.048211)
+  Boundary 1 is 91
+  Boundary 2 is 94
+  Boundary 3 is 95
+
+Critical point 125 is located at (-0.00883, 0.000244, 0.002211)
+  Boundary 1 is 92
+  Boundary 2 is 93
+  Boundary 3 is 96
+
+Critical point 126 is located at (-0.00783, 0.000244, 0.002211)
+  Boundary 1 is 92
+  Boundary 2 is 93
+  Boundary 3 is 95
+
+Critical point 127 is located at (-0.00783, 0.001744, 0.002211)
+  Boundary 1 is 93
+  Boundary 2 is 94
+  Boundary 3 is 95
+
+Critical point 128 is located at (-0.00883, 0.001744, 0.002211)
+  Boundary 1 is 93
+  Boundary 2 is 94
+  Boundary 3 is 96
+
+Critical point 129 is located at (-0.00483, 0.000244, 0.048211)
+  Boundary 1 is 97
+  Boundary 2 is 98
+  Boundary 3 is 101
+
+Critical point 130 is located at (-0.00583, 0.000244, 0.048211)
+  Boundary 1 is 97
+  Boundary 2 is 98
+  Boundary 3 is 102
+
+Critical point 131 is located at (-0.00583, 0.001744, 0.048211)
+  Boundary 1 is 97
+  Boundary 2 is 100
+  Boundary 3 is 102
+
+Critical point 132 is located at (-0.00483, 0.001744, 0.048211)
+  Boundary 1 is 97
+  Boundary 2 is 100
+  Boundary 3 is 101
+
+Critical point 133 is located at (-0.00583, 0.000244, 0.002211)
+  Boundary 1 is 98
+  Boundary 2 is 99
+  Boundary 3 is 102
+
+Critical point 134 is located at (-0.00483, 0.000244, 0.002211)
+  Boundary 1 is 98
+  Boundary 2 is 99
+  Boundary 3 is 101
+
+Critical point 135 is located at (-0.00483, 0.001744, 0.002211)
+  Boundary 1 is 99
+  Boundary 2 is 100
+  Boundary 3 is 101
+
+Critical point 136 is located at (-0.00583, 0.001744, 0.002211)
+  Boundary 1 is 99
+  Boundary 2 is 100
+  Boundary 3 is 102
+
+Critical point 137 is located at (-0.00183, 0.000244, 0.048211)
+  Boundary 1 is 103
+  Boundary 2 is 104
+  Boundary 3 is 107
+
+Critical point 138 is located at (-0.00283, 0.000244, 0.048211)
+  Boundary 1 is 103
+  Boundary 2 is 104
+  Boundary 3 is 108
+
+Critical point 139 is located at (-0.00283, 0.001744, 0.048211)
+  Boundary 1 is 103
+  Boundary 2 is 106
+  Boundary 3 is 108
+
+Critical point 140 is located at (-0.00183, 0.001744, 0.048211)
+  Boundary 1 is 103
+  Boundary 2 is 106
+  Boundary 3 is 107
+
+Critical point 141 is located at (-0.00283, 0.000244, 0.002211)
+  Boundary 1 is 104
+  Boundary 2 is 105
+  Boundary 3 is 108
+
+Critical point 142 is located at (-0.00183, 0.000244, 0.002211)
+  Boundary 1 is 104
+  Boundary 2 is 105
+  Boundary 3 is 107
+
+Critical point 143 is located at (-0.00183, 0.001744, 0.002211)
+  Boundary 1 is 105
+  Boundary 2 is 106
+  Boundary 3 is 107
+
+Critical point 144 is located at (-0.00283, 0.001744, 0.002211)
+  Boundary 1 is 105
+  Boundary 2 is 106
+  Boundary 3 is 108
+
+Area Summations
+Boundary #     Area(x)        Area(y)        Area(z)        Wetted
+---------- -------------- -------------- -------------- --------------
+         0              0              0              0              0
+         1   8.735027e-22        1.3e-11          3e-05   4.706638e-05
+         2  -3.335192e-21         -8e-12          3e-05   4.705706e-05
+         3         0.0001              0              0         0.0001
+         4              0         0.0025              0         0.0025
+         5        -0.0001              0              0         0.0001
+         6              0   -0.002496488              0    0.002496488
+         7              0              0         0.0001         0.0001
+         8              0              0        -0.0001         0.0001
+         9   -2.35581e-21         -1e-11         -3e-05   4.703147e-05
+        10              0    -1.7555e-06              0     1.7555e-06
+        11   4.711621e-21  -4.756289e-23         -3e-05   4.704078e-05
+        12              0   1.756199e-06              0   1.756199e-06
+        13              0              0       -1.5e-06        1.5e-06
+        14              0        4.6e-05              0        4.6e-05
+        15              0              0        1.5e-06        1.5e-06
+        16              0       -4.6e-05              0        4.6e-05
+        17       -6.9e-05              0              0        6.9e-05
+        18        6.9e-05              0              0        6.9e-05
+        19              0              0       -1.5e-06        1.5e-06
+        20              0        4.6e-05              0        4.6e-05
+        21              0              0        1.5e-06        1.5e-06
+        22              0       -4.6e-05              0        4.6e-05
+        23       -6.9e-05              0              0        6.9e-05
+        24        6.9e-05              0              0        6.9e-05
+        25              0              0       -1.5e-06        1.5e-06
+        26              0        4.6e-05              0        4.6e-05
+        27              0              0        1.5e-06        1.5e-06
+        28              0       -4.6e-05              0        4.6e-05
+        29       -6.9e-05              0              0        6.9e-05
+        30        6.9e-05              0              0        6.9e-05
+        31              0              0       -1.5e-06        1.5e-06
+        32              0        4.6e-05              0        4.6e-05
+        33              0              0        1.5e-06        1.5e-06
+        34              0       -4.6e-05              0        4.6e-05
+        35       -6.9e-05              0              0        6.9e-05
+        36        6.9e-05              0              0        6.9e-05
+        37              0              0       -1.5e-06        1.5e-06
+        38              0        4.6e-05              0        4.6e-05
+        39              0              0        1.5e-06        1.5e-06
+        40              0       -4.6e-05              0        4.6e-05
+        41       -6.9e-05              0              0        6.9e-05
+        42        6.9e-05              0              0        6.9e-05
+        43              0              0       -1.5e-06        1.5e-06
+        44              0        4.6e-05              0        4.6e-05
+        45              0              0        1.5e-06        1.5e-06
+        46              0       -4.6e-05              0        4.6e-05
+        47       -6.9e-05              0              0        6.9e-05
+        48        6.9e-05              0              0        6.9e-05
+        49              0              0       -1.5e-06        1.5e-06
+        50              0        4.6e-05              0        4.6e-05
+        51              0              0        1.5e-06        1.5e-06
+        52              0       -4.6e-05              0        4.6e-05
+        53       -6.9e-05              0              0        6.9e-05
+        54        6.9e-05              0              0        6.9e-05
+        55              0              0       -1.5e-06        1.5e-06
+        56              0        4.6e-05              0        4.6e-05
+        57              0              0        1.5e-06        1.5e-06
+        58              0       -4.6e-05              0        4.6e-05
+        59       -6.9e-05              0              0        6.9e-05
+        60        6.9e-05              0              0        6.9e-05
+        61              0              0       -1.5e-06        1.5e-06
+        62              0        4.6e-05              0        4.6e-05
+        63              0              0        1.5e-06        1.5e-06
+        64              0       -4.6e-05              0        4.6e-05
+        65       -6.9e-05              0              0        6.9e-05
+        66        6.9e-05              0              0        6.9e-05
+        67              0              0       -1.5e-06        1.5e-06
+        68              0        4.6e-05              0        4.6e-05
+        69              0              0        1.5e-06        1.5e-06
+        70              0       -4.6e-05              0        4.6e-05
+        71       -6.9e-05              0              0        6.9e-05
+        72        6.9e-05              0              0        6.9e-05
+        73              0              0       -1.5e-06        1.5e-06
+        74              0        4.6e-05              0        4.6e-05
+        75              0              0        1.5e-06        1.5e-06
+        76              0       -4.6e-05              0        4.6e-05
+        77       -6.9e-05              0              0        6.9e-05
+        78        6.9e-05              0              0        6.9e-05
+        79              0              0       -1.5e-06        1.5e-06
+        80              0        4.6e-05              0        4.6e-05
+        81              0              0        1.5e-06        1.5e-06
+        82              0       -4.6e-05              0        4.6e-05
+        83       -6.9e-05              0              0        6.9e-05
+        84        6.9e-05              0              0        6.9e-05
+        85              0              0       -1.5e-06        1.5e-06
+        86              0        4.6e-05              0        4.6e-05
+        87              0              0        1.5e-06        1.5e-06
+        88              0       -4.6e-05              0        4.6e-05
+        89       -6.9e-05              0              0        6.9e-05
+        90        6.9e-05              0              0        6.9e-05
+        91              0              0       -1.5e-06        1.5e-06
+        92              0        4.6e-05              0        4.6e-05
+        93              0              0        1.5e-06        1.5e-06
+        94              0       -4.6e-05              0        4.6e-05
+        95       -6.9e-05              0              0        6.9e-05
+        96        6.9e-05              0              0        6.9e-05
+        97              0              0       -1.5e-06        1.5e-06
+        98              0        4.6e-05              0        4.6e-05
+        99              0              0        1.5e-06        1.5e-06
+       100              0       -4.6e-05              0        4.6e-05
+       101       -6.9e-05              0              0        6.9e-05
+       102        6.9e-05              0              0        6.9e-05
+       103              0              0       -1.5e-06        1.5e-06
+       104              0        4.6e-05              0        4.6e-05
+       105              0              0        1.5e-06        1.5e-06
+       106              0       -4.6e-05              0        4.6e-05
+       107       -6.9e-05              0              0        6.9e-05
+       108        6.9e-05              0              0        6.9e-05
+   Total    -1.355253e-20   3.512398e-06              0    0.009316196
+
+Number of boundary files
+1
+capri.001.a.tri
+Number of boundaries
+108
+Boundary #   Layers      g_space       n_space             boundary name
+---------- ---------- -------------- -------------- --------------------------------
+         0          0         -5e+18         -5e+18 Virtual                         
+         1          0   9.765625e-05   9.765625e-05 Boundary_1                      
+         2          0   9.765625e-05   9.765625e-05 Boundary_2                      
+         3          0   4.882813e-05   4.882813e-05 Boundary_3                      
+         4          0     0.00078125     0.00078125 Boundary_4                      
+         5          0   4.882813e-05   4.882813e-05 Boundary_5                      
+         6          0     0.00078125     0.00078125 Boundary_6                      
+         7          0   4.882813e-05   4.882813e-05 Boundary_7                      
+         8          0   4.882813e-05   4.882813e-05 Boundary_8                      
+         9          0   9.765625e-05   9.765625e-05 Boundary_9                      
+        10          0   2.441406e-05   2.441406e-05 Boundary_10                     
+        11          0   9.765625e-05   9.765625e-05 Boundary_11                     
+        12          0   2.441406e-05   2.441406e-05 Boundary_12                     
+        13          0   2.441406e-05   2.441406e-05 Boundary_13                     
+        14          0   4.882813e-05   4.882813e-05 Boundary_14                     
+        15          0   2.441406e-05   2.441406e-05 Boundary_15                     
+        16          0   4.882813e-05   4.882813e-05 Boundary_16                     
+        17          0   4.882813e-05   4.882813e-05 Boundary_17                     
+        18          0   4.882813e-05   4.882813e-05 Boundary_18                     
+        19          0   2.441406e-05   2.441406e-05 Boundary_19                     
+        20          0   4.882813e-05   4.882813e-05 Boundary_20                     
+        21          0   2.441406e-05   2.441406e-05 Boundary_21                     
+        22          0   4.882813e-05   4.882813e-05 Boundary_22                     
+        23          0   4.882813e-05   4.882813e-05 Boundary_23                     
+        24          0   4.882813e-05   4.882813e-05 Boundary_24                     
+        25          0   2.441406e-05   2.441406e-05 Boundary_25                     
+        26          0   4.882813e-05   4.882813e-05 Boundary_26                     
+        27          0   2.441406e-05   2.441406e-05 Boundary_27                     
+        28          0   4.882813e-05   4.882813e-05 Boundary_28                     
+        29          0   4.882813e-05   4.882813e-05 Boundary_29                     
+        30          0   4.882813e-05   4.882813e-05 Boundary_30                     
+        31          0   2.441406e-05   2.441406e-05 Boundary_31                     
+        32          0   4.882813e-05   4.882813e-05 Boundary_32                     
+        33          0   2.441406e-05   2.441406e-05 Boundary_33                     
+        34          0   4.882813e-05   4.882813e-05 Boundary_34                     
+        35          0   4.882813e-05   4.882813e-05 Boundary_35                     
+        36          0   4.882813e-05   4.882813e-05 Boundary_36                     
+        37          0   2.441406e-05   2.441406e-05 Boundary_37                     
+        38          0   4.882813e-05   4.882813e-05 Boundary_38                     
+        39          0   2.441406e-05   2.441406e-05 Boundary_39                     
+        40          0   4.882813e-05   4.882813e-05 Boundary_40                     
+        41          0   4.882813e-05   4.882813e-05 Boundary_41                     
+        42          0   4.882813e-05   4.882813e-05 Boundary_42                     
+        43          0   2.441406e-05   2.441406e-05 Boundary_43                     
+        44          0   4.882813e-05   4.882813e-05 Boundary_44                     
+        45          0   2.441406e-05   2.441406e-05 Boundary_45                     
+        46          0   4.882813e-05   4.882813e-05 Boundary_46                     
+        47          0   4.882813e-05   4.882813e-05 Boundary_47                     
+        48          0   4.882813e-05   4.882813e-05 Boundary_48                     
+        49          0   2.441406e-05   2.441406e-05 Boundary_49                     
+        50          0   4.882813e-05   4.882813e-05 Boundary_50                     
+        51          0   2.441406e-05   2.441406e-05 Boundary_51                     
+        52          0   4.882813e-05   4.882813e-05 Boundary_52                     
+        53          0   4.882813e-05   4.882813e-05 Boundary_53                     
+        54          0   4.882813e-05   4.882813e-05 Boundary_54                     
+        55          0   2.441406e-05   2.441406e-05 Boundary_55                     
+        56          0   4.882813e-05   4.882813e-05 Boundary_56                     
+        57          0   2.441406e-05   2.441406e-05 Boundary_57                     
+        58          0   4.882813e-05   4.882813e-05 Boundary_58                     
+        59          0   4.882813e-05   4.882813e-05 Boundary_59                     
+        60          0   4.882813e-05   4.882813e-05 Boundary_60                     
+        61          0   2.441406e-05   2.441406e-05 Boundary_61                     
+        62          0   4.882813e-05   4.882813e-05 Boundary_62                     
+        63          0   2.441406e-05   2.441406e-05 Boundary_63                     
+        64          0   4.882813e-05   4.882813e-05 Boundary_64                     
+        65          0   4.882813e-05   4.882813e-05 Boundary_65                     
+        66          0   4.882813e-05   4.882813e-05 Boundary_66                     
+        67          0   2.441406e-05   2.441406e-05 Boundary_67                     
+        68          0   4.882813e-05   4.882813e-05 Boundary_68                     
+        69          0   2.441406e-05   2.441406e-05 Boundary_69                     
+        70          0   4.882813e-05   4.882813e-05 Boundary_70                     
+        71          0   4.882813e-05   4.882813e-05 Boundary_71                     
+        72          0   4.882813e-05   4.882813e-05 Boundary_72                     
+        73          0   2.441406e-05   2.441406e-05 Boundary_73                     
+        74          0   4.882813e-05   4.882813e-05 Boundary_74                     
+        75          0   2.441406e-05   2.441406e-05 Boundary_75                     
+        76          0   4.882813e-05   4.882813e-05 Boundary_76                     
+        77          0   4.882813e-05   4.882813e-05 Boundary_77                     
+        78          0   4.882813e-05   4.882813e-05 Boundary_78                     
+        79          0   2.441406e-05   2.441406e-05 Boundary_79                     
+        80          0   4.882813e-05   4.882813e-05 Boundary_80                     
+        81          0   2.441406e-05   2.441406e-05 Boundary_81                     
+        82          0   4.882813e-05   4.882813e-05 Boundary_82                     
+        83          0   4.882813e-05   4.882813e-05 Boundary_83                     
+        84          0   4.882813e-05   4.882813e-05 Boundary_84                     
+        85          0   2.441406e-05   2.441406e-05 Boundary_85                     
+        86          0   4.882813e-05   4.882813e-05 Boundary_86                     
+        87          0   2.441406e-05   2.441406e-05 Boundary_87                     
+        88          0   4.882813e-05   4.882813e-05 Boundary_88                     
+        89          0   4.882813e-05   4.882813e-05 Boundary_89                     
+        90          0   4.882813e-05   4.882813e-05 Boundary_90                     
+        91          0   2.441406e-05   2.441406e-05 Boundary_91                     
+        92          0   4.882813e-05   4.882813e-05 Boundary_92                     
+        93          0   2.441406e-05   2.441406e-05 Boundary_93                     
+        94          0   4.882813e-05   4.882813e-05 Boundary_94                     
+        95          0   4.882813e-05   4.882813e-05 Boundary_95                     
+        96          0   4.882813e-05   4.882813e-05 Boundary_96                     
+        97          0   2.441406e-05   2.441406e-05 Boundary_97                     
+        98          0   4.882813e-05   4.882813e-05 Boundary_98                     
+        99          0   2.441406e-05   2.441406e-05 Boundary_99                     
+       100          0   4.882813e-05   4.882813e-05 Boundary_100                    
+       101          0   4.882813e-05   4.882813e-05 Boundary_101                    
+       102          0   4.882813e-05   4.882813e-05 Boundary_102                    
+       103          0   2.441406e-05   2.441406e-05 Boundary_103                    
+       104          0   4.882813e-05   4.882813e-05 Boundary_104                    
+       105          0   2.441406e-05   2.441406e-05 Boundary_105                    
+       106          0   4.882813e-05   4.882813e-05 Boundary_106                    
+       107          0   4.882813e-05   4.882813e-05 Boundary_107                    
+       108          0   4.882813e-05   4.882813e-05 Boundary_108                    
+Maximum number of levels in Octree-sorted geometry= 8
+
+Overall spacing limits for boundary 1:
+	Minimum geometric tangential spacing = 9.76563e-05
+	Maximum geometric tangential spacing = 9.76563e-05
+	Minimum geometric normal spacing = 9.76563e-05
+	Maximum geometric normal spacing = 9.76563e-05
+Overall spacing limits for boundary 2:
+	Minimum geometric tangential spacing = 9.76563e-05
+	Maximum geometric tangential spacing = 9.76563e-05
+	Minimum geometric normal spacing = 9.76563e-05
+	Maximum geometric normal spacing = 9.76563e-05
+Overall spacing limits for boundary 3:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 4:
+	Minimum geometric tangential spacing = 0.00078125
+	Maximum geometric tangential spacing = 0.00078125
+	Minimum geometric normal spacing = 0.00078125
+	Maximum geometric normal spacing = 0.00078125
+Overall spacing limits for boundary 5:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 6:
+	Minimum geometric tangential spacing = 0.00078125
+	Maximum geometric tangential spacing = 0.00078125
+	Minimum geometric normal spacing = 0.00078125
+	Maximum geometric normal spacing = 0.00078125
+Overall spacing limits for boundary 7:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 8:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 9:
+	Minimum geometric tangential spacing = 9.76563e-05
+	Maximum geometric tangential spacing = 9.76563e-05
+	Minimum geometric normal spacing = 9.76563e-05
+	Maximum geometric normal spacing = 9.76563e-05
+Overall spacing limits for boundary 10:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 11:
+	Minimum geometric tangential spacing = 9.76563e-05
+	Maximum geometric tangential spacing = 9.76563e-05
+	Minimum geometric normal spacing = 9.76563e-05
+	Maximum geometric normal spacing = 9.76563e-05
+Overall spacing limits for boundary 12:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 13:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 14:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 15:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 16:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 17:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 18:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 19:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 20:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 21:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 22:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 23:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 24:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 25:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 26:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 27:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 28:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 29:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 30:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 31:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 32:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 33:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 34:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 35:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 36:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 37:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 38:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 39:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 40:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 41:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 42:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 43:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 44:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 45:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 46:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 47:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 48:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 49:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 50:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 51:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 52:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 53:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 54:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 55:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 56:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 57:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 58:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 59:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 60:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 61:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 62:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 63:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 64:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 65:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 66:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 67:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 68:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 69:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 70:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 71:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 72:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 73:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 74:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 75:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 76:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 77:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 78:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 79:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 80:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 81:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 82:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 83:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 84:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 85:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 86:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 87:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 88:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 89:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 90:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 91:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 92:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 93:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 94:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 95:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 96:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 97:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 98:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 99:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 100:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 101:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 102:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 103:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 104:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 105:
+	Minimum geometric tangential spacing = 2.44141e-05
+	Maximum geometric tangential spacing = 2.44141e-05
+	Minimum geometric normal spacing = 2.44141e-05
+	Maximum geometric normal spacing = 2.44141e-05
+Overall spacing limits for boundary 106:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 107:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Overall spacing limits for boundary 108:
+	Minimum geometric tangential spacing = 4.88281e-05
+	Maximum geometric tangential spacing = 4.88281e-05
+	Minimum geometric normal spacing = 4.88281e-05
+	Maximum geometric normal spacing = 4.88281e-05
+Allocating for geom boundary.
+
+Allocating for geom boundary elements.
+
+Storing facets as boundary objects.
+Area summation (x, y, z) = -1.5246593051e-20 3.5123980000e-06 -3.0493186101e-20
+
+points=2678
+
+facets=5288
+
+Allocating for 55123 nodes.
+
+Number of tets = 247557.
+
+Allocating for 99768 facets.
+
+Allocating for 247557 tets.
+
+Boundary 0, allocating space for 2532 triangles.
+Boundary 1, allocating space for 2596 triangles.
+Boundary 2, allocating space for 156 triangles.
+Boundary 3, allocating space for 23674 triangles.
+Boundary 4, allocating space for 98 triangles.
+Boundary 5, allocating space for 25208 triangles.
+Boundary 6, allocating space for 160 triangles.
+Boundary 7, allocating space for 135 triangles.
+Boundary 8, allocating space for 2582 triangles.
+Boundary 9, allocating space for 50 triangles.
+Boundary 10, allocating space for 2403 triangles.
+Boundary 11, allocating space for 50 triangles.
+Boundary 12, allocating space for 14 triangles.
+Boundary 13, allocating space for 810 triangles.
+Boundary 14, allocating space for 9 triangles.
+Boundary 15, allocating space for 750 triangles.
+Boundary 16, allocating space for 454 triangles.
+Boundary 17, allocating space for 481 triangles.
+Boundary 18, allocating space for 14 triangles.
+Boundary 19, allocating space for 869 triangles.
+Boundary 20, allocating space for 11 triangles.
+Boundary 21, allocating space for 778 triangles.
+Boundary 22, allocating space for 509 triangles.
+Boundary 23, allocating space for 489 triangles.
+Boundary 24, allocating space for 15 triangles.
+Boundary 25, allocating space for 812 triangles.
+Boundary 26, allocating space for 15 triangles.
+Boundary 27, allocating space for 715 triangles.
+Boundary 28, allocating space for 422 triangles.
+Boundary 29, allocating space for 481 triangles.
+Boundary 30, allocating space for 14 triangles.
+Boundary 31, allocating space for 759 triangles.
+Boundary 32, allocating space for 13 triangles.
+Boundary 33, allocating space for 697 triangles.
+Boundary 34, allocating space for 455 triangles.
+Boundary 35, allocating space for 448 triangles.
+Boundary 36, allocating space for 12 triangles.
+Boundary 37, allocating space for 811 triangles.
+Boundary 38, allocating space for 13 triangles.
+Boundary 39, allocating space for 765 triangles.
+Boundary 40, allocating space for 493 triangles.
+Boundary 41, allocating space for 472 triangles.
+Boundary 42, allocating space for 8 triangles.
+Boundary 43, allocating space for 810 triangles.
+Boundary 44, allocating space for 13 triangles.
+Boundary 45, allocating space for 703 triangles.
+Boundary 46, allocating space for 467 triangles.
+Boundary 47, allocating space for 471 triangles.
+Boundary 48, allocating space for 13 triangles.
+Boundary 49, allocating space for 867 triangles.
+Boundary 50, allocating space for 11 triangles.
+Boundary 51, allocating space for 779 triangles.
+Boundary 52, allocating space for 506 triangles.
+Boundary 53, allocating space for 460 triangles.
+Boundary 54, allocating space for 15 triangles.
+Boundary 55, allocating space for 807 triangles.
+Boundary 56, allocating space for 15 triangles.
+Boundary 57, allocating space for 731 triangles.
+Boundary 58, allocating space for 423 triangles.
+Boundary 59, allocating space for 489 triangles.
+Boundary 60, allocating space for 13 triangles.
+Boundary 61, allocating space for 774 triangles.
+Boundary 62, allocating space for 17 triangles.
+Boundary 63, allocating space for 675 triangles.
+Boundary 64, allocating space for 477 triangles.
+Boundary 65, allocating space for 446 triangles.
+Boundary 66, allocating space for 16 triangles.
+Boundary 67, allocating space for 829 triangles.
+Boundary 68, allocating space for 13 triangles.
+Boundary 69, allocating space for 762 triangles.
+Boundary 70, allocating space for 475 triangles.
+Boundary 71, allocating space for 467 triangles.
+Boundary 72, allocating space for 8 triangles.
+Boundary 73, allocating space for 809 triangles.
+Boundary 74, allocating space for 13 triangles.
+Boundary 75, allocating space for 716 triangles.
+Boundary 76, allocating space for 466 triangles.
+Boundary 77, allocating space for 450 triangles.
+Boundary 78, allocating space for 13 triangles.
+Boundary 79, allocating space for 845 triangles.
+Boundary 80, allocating space for 11 triangles.
+Boundary 81, allocating space for 785 triangles.
+Boundary 82, allocating space for 507 triangles.
+Boundary 83, allocating space for 467 triangles.
+Boundary 84, allocating space for 12 triangles.
+Boundary 85, allocating space for 804 triangles.
+Boundary 86, allocating space for 15 triangles.
+Boundary 87, allocating space for 717 triangles.
+Boundary 88, allocating space for 438 triangles.
+Boundary 89, allocating space for 490 triangles.
+Boundary 90, allocating space for 14 triangles.
+Boundary 91, allocating space for 728 triangles.
+Boundary 92, allocating space for 14 triangles.
+Boundary 93, allocating space for 687 triangles.
+Boundary 94, allocating space for 468 triangles.
+Boundary 95, allocating space for 443 triangles.
+Boundary 96, allocating space for 12 triangles.
+Boundary 97, allocating space for 796 triangles.
+Boundary 98, allocating space for 12 triangles.
+Boundary 99, allocating space for 764 triangles.
+Boundary 100, allocating space for 490 triangles.
+Boundary 101, allocating space for 466 triangles.
+Boundary 102, allocating space for 13 triangles.
+Boundary 103, allocating space for 818 triangles.
+Boundary 104, allocating space for 13 triangles.
+Boundary 105, allocating space for 755 triangles.
+Boundary 106, allocating space for 479 triangles.
+Boundary 107, allocating space for 434 triangles.
+Allocating space for 199899 tetrahedra.
+Finished with output tet CGNS file.
+
+TRI2STL run completed at Thu Nov 11 11:38:02 2010

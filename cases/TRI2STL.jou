@@ -1,0 +1,8 @@
+#Number of geometry files ->
+1
+#File 1 ->
+capri.001.a.tri
+#Enter number of regions to be saved from Tetgen ->
+1
+#Enter number of region to be stitched ->
+1

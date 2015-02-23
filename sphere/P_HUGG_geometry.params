@@ -1,0 +1,14 @@
+Number of boundary files
+1
+box.tri
+Number of boundaries
+6
+Boundary #   Layers      g_space       n_space              boundary name
+---------- ---------- -------------- -------------- --------------------------------
+         0          0         -5e+18         -5e+18 Virtual                         
+         1          0         0.0625         0.0625 Boundary_1                      
+         2          0         0.0625         0.0625 Boundary_2                      
+         3          0         0.0625         0.0625 Boundary_3                      
+         4          0         0.0625         0.0625 Boundary_4                      
+         5          0         0.0625         0.0625 Boundary_5                      
+         6          0         0.0625         0.0625 Boundary_6                      
